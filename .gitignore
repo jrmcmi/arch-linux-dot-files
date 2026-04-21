@@ -1,0 +1,10 @@
+# cache / temp
+.cache/
+*.log
+
+# kde monitor configs (machine specific)
+.local/share/kscreen/
+
+# trash / misc
+.Trash*
+.DS_Store

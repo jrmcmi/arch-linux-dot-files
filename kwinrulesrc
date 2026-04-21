@@ -1,0 +1,16 @@
+[293ecbce-acdb-4e8b-a7b6-b137aaa105c1]
+Description=Blur Transparency
+Enabled=false
+opacityactive=85
+opacityactiverule=2
+wmclasscomplete=true
+
+[General]
+count=2
+rules=adf73e0b-fbfd-4e39-8549-eab0da7f2428,293ecbce-acdb-4e8b-a7b6-b137aaa105c1
+
+[adf73e0b-fbfd-4e39-8549-eab0da7f2428]
+Description=Removed Titlebar and Frame
+noborder=true
+noborderrule=2
+wmclasscomplete=true

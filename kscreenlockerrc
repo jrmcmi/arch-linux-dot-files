@@ -1,0 +1,7 @@
+[Daemon]
+Autolock=false
+Timeout=0
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/home/mai/Downloads/l6yi3za9nrtb1.jpg
+PreviewImage=/home/mai/Downloads/l6yi3za9nrtb1.jpg
